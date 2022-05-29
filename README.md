@@ -1,3 +1,5 @@
+Hi there 👋
+
 - 🌱 I’m currently learning **Javascript 🧽, Python 🐍**
 
 - 📫 How to reach me **ansofhn5@gmail.com**
