@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/ansofhn/">
   <img align="left" alt="Ansofhn Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/ansofhn/">
+<a href="https://www.linkedin.com/in/ansofhn">
   <img align="left" alt="Ansofhn LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
