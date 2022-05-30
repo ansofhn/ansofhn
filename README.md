@@ -25,7 +25,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansofhn&show_icons=true&locale=en&theme=gotham" alt="ansofhn" /></p>
-&nbsp;
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ansofhn&show_icons=true&theme=gotham" alt="ansofhn" />
+</hr>
