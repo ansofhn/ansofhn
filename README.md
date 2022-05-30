@@ -27,5 +27,4 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansofhn&show_icons=true&locale=en&theme=gotham" alt="ansofhn" /></p>
-<br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ansofhn&show_icons=true&theme=gotham" alt="ansofhn" />
