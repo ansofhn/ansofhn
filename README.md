@@ -26,5 +26,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansofhn&show_icons=true&locale=en&theme=gotham" alt="ansofhn" /></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ansofhn&show_icons=true&theme=gotham" alt="ansofhn" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansofhn&show_icons=true&locale=en&theme=gotham" alt="ansofhn" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ansofhn&show_icons=true&theme=gotham" alt="ansofhn" />
