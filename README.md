@@ -1,6 +1,8 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+[![@ansofhn's Holopin board](https://holopin.me/ansofhn)](https://holopin.io/@ansofhn)
 
-I'm [Ansof Habibunnadjar](https://github.com/ansofhn), I am a Junior Web Developer.
+## Hi there 👋
+
+I'm [Ansof Habibunnadjar](https://github.com/ansofhn), I am a Junior Web Developer, with interest in front end development.
 
 <a href="https://www.instagram.com/ansofhn/">
   <img align="left" alt="Ansofhn Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -18,7 +20,6 @@ I'm [Ansof Habibunnadjar](https://github.com/ansofhn), I am a Junior Web Develop
 - React.Js
 
 <br />
-
 
 ## My Tech Stack
 
