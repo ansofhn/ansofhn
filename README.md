@@ -1,5 +1,3 @@
-[![@ansofhn's Holopin board](https://holopin.me/ansofhn)](https://holopin.io/@ansofhn)
-
 ## Hi there 👋
 
 I'm [Ansof Habibunnadjar](https://github.com/ansofhn), I am a Junior Web Developer, with interest in front end development.
