@@ -37,7 +37,7 @@ I'm [Ansof Habibunnadjar](https://github.com/ansofhn), I am a Junior Web Develop
 ![Postgres](https://img.shields.io/badge/postgres-black.svg?style=flat-square&logo=postgresql)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![Gitea](https://img.shields.io/badge/Gitea-black?style=flat-square&logo=gitea&logoColor=5D9425)
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=%23007ACC)
