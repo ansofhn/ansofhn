@@ -45,6 +45,6 @@ I'm [Ansof Habibunnadjar](https://github.com/ansofhn), I am a Junior Web Develop
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ansofhn&layout=compact&count_private=true&show_icons=true&theme=gotham" alt="ansofhn" />
+<img src="https://github-readme-stats.vercel.app/api?username=ansofhn&layout=compact&count_private=true&show_icons=true&theme=tokyonight" alt="ansofhn" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ansofhn&layout=compact&count_private=true&show_icons=true&theme=gotham" alt="ansofhn" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ansofhn&layout=compact&count_private=true&show_icons=true&theme=tokyonight" alt="ansofhn" />
