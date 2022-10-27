@@ -30,13 +30,10 @@ I'm [Ansof Habibunnadjar](https://github.com/ansofhn), I am a Junior Web Develop
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-black?style=flat-square&logo=tailwind-css)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-black?style=flat-square&logo=ant-design)
 ![Figma](https://img.shields.io/badge/figma-black.svg?style=flat-square&logo=figma&logoColor=%23F24E1E)
-
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
-![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
-![ESlint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint&logoColor=%234B32C3)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![Postgres](https://img.shields.io/badge/postgres-black.svg?style=flat-square&logo=postgresql)
