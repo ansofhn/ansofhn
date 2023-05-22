@@ -9,8 +9,6 @@ I'm [Ansof Habibunnadjar](https://github.com/ansofhn), I am a Junior Web Develop
   <img align="left" alt="Ansofhn LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ansofhn)
-
 <br />
 
 :page_with_curl: I'm currently learning:
