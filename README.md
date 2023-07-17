@@ -3,10 +3,10 @@
 I'm [Ansof Habibunnadjar](https://github.com/ansofhn), I am a Junior Web Developer, with interest in front end development.
 
 <a href="https://linkedin.com/in/ansofhn" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ansofhn"/>
  </a>
  <a href="https://instagram.com/ansofhn/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ansofhn" />
  </a>
  <img src="https://komarev.com/ghpvc/?username=ansofhn&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 
