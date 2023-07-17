@@ -2,16 +2,14 @@
 
 I'm [Ansof Habibunnadjar](https://github.com/ansofhn), I am a Junior Web Developer, with interest in front end development.
 
-<a href="https://www.instagram.com/ansofhn/">
-  <img align="left" alt="Ansofhn Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/ansofhn">
-  <img align="left" alt="Ansofhn LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<a href="https://linkedin.com/in/ansofhn" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <a href="https://instagram.com/ansofhn/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a>
+ <img src="https://komarev.com/ghpvc/?username=ansofhn&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 
-
-
-<br />
 <br />
 
 :page_with_curl: I'm currently learning:
@@ -45,6 +43,12 @@ I'm [Ansof Habibunnadjar](https://github.com/ansofhn), I am a Junior Web Develop
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
 ## GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/ansofhn">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansofhn&theme=github_dark&border=FFFFFF" alt="Ansof's GitHub streak"/>
+  </a>
+</p>
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ansofhn&layout=compact&count_private=true&show_icons=true&theme=github_dark" />
 
