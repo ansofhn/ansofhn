@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Ansof Habibunnadjar](https://github.com/ansofhn), I am a Junior Web Developer, with interest in front end development.
+I'm [Ansof Habibunnadjar](https://github.com/ansofhn), I am a Junior Software Developer, with interest in front end development.
 
 <a href="https://linkedin.com/in/ansofhn" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ansofhn"/>
@@ -15,6 +15,7 @@ I'm [Ansof Habibunnadjar](https://github.com/ansofhn), I am a Junior Web Develop
 :page_with_curl: I'm currently learning:
 - Next.Js
 - React.Js
+- Kotlin
 
 <br />
 
